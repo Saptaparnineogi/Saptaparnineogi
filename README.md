@@ -36,7 +36,6 @@ Azure ML • Databricks • Spark • MLflow • Docker • Git
 
 - 🔋 **Battery Energy Storage Price Forecasting**
 - 🛒 **DMFCo – Deep Matrix Factorization for Complementary Product Recommendation**
-- 🚗 **ADAS Machine Learning Case Studies**
 - 📊 **Customer Churn Prediction Pipeline**
 
 ---
