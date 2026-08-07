@@ -49,6 +49,6 @@ Generative AI, LLMs, Retrieval-Augmented Generation (RAG), and AI Agents.
 
 ### 📫 Connect with Me
 
-- LinkedIn: [*(On Linkedin)*](https://www.linkedin.com/in/saptaparni-neogi-7a56b6b5/)
+- LinkedIn: [*On Linkedin*](https://www.linkedin.com/in/saptaparni-neogi-7a56b6b5/)
 - Email: **neogi.saptaparni@gmail.com**
 
