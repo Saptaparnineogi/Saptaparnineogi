@@ -1,8 +1,54 @@
-## Hi, I am Saptaparni👋 Welcome to my Github repository!
+# Hi, I'm Saptaparni 👋
 
-I am a Data Scientist working with data since 2014. Currently I am working as a Data Sceintist in **Depixus a B2B Bio-Tech Research Company** in Paris. Earlier, I have worked in **Mercedes-Benz R&D** as a full-time Data Scientist on **Advanced Driving Assistance Systems (ADAS)**. I have also worked at Fraunhofer ISE and GeoSPIN as working student and one of the leading consultancy firm in India called **Infosys** as a Senior Software Engineer focusing of Oracle Finance. I have completed my M.Sc. in Computer Scince with a specialization in Data Science from **University of Freiburg, Germany**.
- 
-- 🔭 I’m currently learning Generative AI with LLMs
-- 💬 Ask me about: Python, Data Analysis, Data Science, SQL, Application of Machine Learning
-- 📫 How to reach me: neogi.saptaparni@gmail.com
+I'm a **Senior Data Scientist** with 7+ years of experience building machine learning solutions across **biotechnology, automotive, renewable energy, and recommendation systems**.
+
+Throughout my career, I've worked on problems ranging from **ADAS safety analytics**, **scientific signal processing**, and **time series forecasting** to **deep learning recommender systems**. I enjoy taking machine learning projects from problem formulation and experimentation to production deployment.
+
+Here you'll find a collection of personal projects, research projects and end-to-end machine learning applications.
+
+---
+
+### 🔬 Areas of Interest
+
+- Machine Learning & Deep Learning
+- Time Series Forecasting
+- Signal Processing
+- Recommendation Systems
+- Predictive Modelling
+- MLOps & Production ML
+- Generative AI & LLMs
+
+---
+
+### 🛠 Tech Stack
+
+**Languages & Libraries**
+
+Python • PySpark • SQL • Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch • XGBoost • LightGBM 
+
+**Cloud & MLOps**
+
+Azure ML • Databricks • Spark • MLflow • Docker • Git
+
+---
+
+### 📌 Featured Projects
+
+- 🔋 **Battery Energy Storage Price Forecasting**
+- 🛒 **DMFCo – Deep Matrix Factorization for Complementary Product Recommendation**
+- 🚗 **ADAS Machine Learning Case Studies**
+- 📊 **Customer Churn Prediction Pipeline**
+
+---
+
+### 🌱 Currently Learning
+
+Generative AI, LLMs, Retrieval-Augmented Generation (RAG), and AI Agents.
+
+---
+
+### 📫 Connect with Me
+
+- LinkedIn: [*(link)*](https://www.linkedin.com/in/saptaparni-neogi-7a56b6b5/)
+- Email: **neogi.saptaparni@gmail.com**
 
